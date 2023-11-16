@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @ephergent
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Observations on Ephemeral Emergent Phenomena.
+- 🌱 I’m currently learning AI
+- 📫 How to reach me X, BlueSky, Threads
+
+
+### Please visit https://ephergent.com 
+
+
 
 <!---
 ephergent/ephergent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
