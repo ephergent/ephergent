@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @ephergent
-- 👀 I’m interested in Observations on Ephemeral Emergent Phenomena.
-- 🌱 I’m currently learning AI
-- 📫 How to reach me X, BlueSky, Threads
-
 
 ### Please visit https://ephergent.com 
 
